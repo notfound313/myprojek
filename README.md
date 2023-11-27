@@ -3,4 +3,11 @@ Sistem AI deteksi dilakukan dengan mengenal 8 jenis sampah dengan memproses gamb
 
 ## Hasil Evaluasi
 Evaluasi ROC menunjukan setiap 8 kelas memiliki True Positive rate yang tinggi ini menunjukan bahwa model yang dibuat sudah dibuat dengan baik.
+
 ![Evaluasi_ROC](Evalusi_ROC.png)
+
+## Testing hasil
+foto yang diberikan oleh user menunjukkan sampah kertas dengan tingkat persentase 99,31%.
+
+
+![testing.png](testing.png.png)
