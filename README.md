@@ -10,4 +10,4 @@ Evaluasi ROC menunjukan setiap 8 kelas memiliki True Positive rate yang tinggi i
 foto yang diberikan oleh user menunjukkan sampah kertas dengan tingkat persentase 99,31%.
 
 
-![testing.png](testing.png.png)
+![testing.png](testing.png)
